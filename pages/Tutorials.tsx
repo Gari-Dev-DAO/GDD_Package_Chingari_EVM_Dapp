@@ -467,7 +467,7 @@ const Home = () => {
                 >
                   {isMintLoading && "Waiting For Approve"}
                   {isMintStarted && isLoading && !isMinted && "Minting..."}
-                  {!isMintLoading && !isLoading && "Mint"}
+                  {!isMintLoading && !isLoading && "Mint an NFT Media "}
                   {isMinted && "Minted Successfully"}
                 </button>
               )}
