@@ -2,7 +2,7 @@
 
 # Social Media in Web3
 
-Web3 social networks are built on the technology that powers Ethereum and other cryptocurrencies- blockchain, which is a transparent digital ledger that can store immutable data.
+Web3 social networks are built on the technology that powers Ethereum and other cryptocurrencies- blockchain, a transparent digital ledger that can store immutable data.
 
 Being built on blockchain, web3 social networks are decentralized and are thus a class of decentralized applications(dApps).
 
@@ -21,10 +21,10 @@ Being built on blockchain, web3 social networks are decentralized and are thus a
 
 # Proposing Features:
 
--> We limit the hours of usage of the user to avoid social media addiction. <br/>
--> We give an option to trimout the 18+ contents and horror contents. <br/>
--> we use NFt.storage to storing and retrieving images and videos from ipfs and filecoin. <br/>
--> We use Biconomy Social Login and Account Abstraction to avoid the recurrent use of the web3 authentication. <br/>
+-> We limit the user's usage hours to avoid social media addiction. <br/>
+-> We give the option to trim out the 18+ and horror content. <br/>
+-> we use NFt.storage to store and retrieve images and videos from ipfs and filecoin. <br/>
+-> We use Biconomy Social Login and Account Abstraction to avoid the recurrent use of web3 authentication. <br/>
 -> We allow only a signed user to access the media. <br/>
 -> We use TableLand for the relational queries and the API calls. <br/>
 -> We use the Chingari for the vedio media library
